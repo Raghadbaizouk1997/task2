@@ -1,0 +1,15 @@
+.button-with-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-icon {
+    margin-right: 5px; 
+    
+}
+
+.button-text {
+    margin-left: 5px; 
+  
+}

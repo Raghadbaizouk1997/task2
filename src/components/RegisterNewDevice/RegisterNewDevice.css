@@ -1,0 +1,106 @@
+.white-box {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 40%;
+  height: 100vh;
+  background-color: white;
+  box-shadow: var(--box-shadow);
+}
+.step-parent {
+  margin: 30px;
+}
+
+.txt-verification {
+  font-size: var(--font-size-small);
+  margin-top: 10px;
+}
+
+.step-item {
+  margin-right: 15px;
+  color: var(--text-color);
+}
+.arrow {
+  margin-right: 15px;
+}
+
+.active-register {
+  color: var(--primary-color-darker);
+}
+
+.close-icon {
+  top: 30px;
+  right: 30px;
+  cursor: pointer;
+  color: var(--alert-color);
+  font-size: 23px;
+}
+
+.wizard-steps {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.step-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.form-row {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.required {
+  color: red;
+}
+
+.step {
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.step.active {
+  background-color: red;
+  color: #fff;
+}
+
+.step-content {
+  margin-bottom: 20px;
+}
+
+.button-row {
+  position: fixed;
+  bottom: 30px;
+  display: flex;
+  width: calc(40% - 45px);
+  justify-content: space-between;
+}
+
+.input-device {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.input-register {
+  padding: var(--padding);
+  border-radius: var(--border-radius);
+  border: 1px solid #dedee4;
+  margin-top: 10px;
+}
+@media (max-width: 768px) {
+  .white-box{
+    width: 90%;
+  }
+  
+}

@@ -1,0 +1,468 @@
+[
+  {
+    "SI_NO": "07",
+    "status": "Revoked",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "02",
+    "status": "Expired",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "04",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "09",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "05",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+ 
+  {
+    "SI_NO": "01",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "03",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "02",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "02",
+    "status": "Expired",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "04",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "09",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "05",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+ 
+  {
+    "SI_NO": "01",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "03",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "02",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "02",
+    "status": "Expired",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "04",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "09",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "05",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+ 
+  {
+    "SI_NO": "01",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "03",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "02",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "02",
+    "status": "Expired",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "04",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "09",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "05",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+ 
+  {
+    "SI_NO": "01",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "03",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "02",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "02",
+    "status": "Expired",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "04",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "09",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "05",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+ 
+  {
+    "SI_NO": "01",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "03",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "02",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "02",
+    "status": "Expired",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "04",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "09",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "05",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+ 
+  {
+    "SI_NO": "01",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "03",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "02",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "02",
+    "status": "Expired",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "04",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "09",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "05",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+ 
+  {
+    "SI_NO": "01",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "03",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "02",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "02",
+    "status": "Expired",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "04",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "09",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "05",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+ 
+  {
+    "SI_NO": "01",
+    "status": "Pending",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI_NO": "03",
+    "status": "Active",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  },
+  {
+    "SI.NO": "02",
+    "status": "Completed",
+    "Device Type": "Apple IOS",
+    "Device Name": "spotlight-int-dev-01",
+    "Date Issune": "08/28/2023 22:25",
+    "One Time Passcode":"TGS#ttwe"
+  }
+  
+ 
+]

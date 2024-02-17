@@ -1,0 +1,239 @@
+.deviceSerch {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--gap);
+  width: 60%;
+}
+
+.tableButton {
+  border: 1px solid var(--primary-color-darker);
+  border-radius: var(--border-radius);
+  background: var(--white-color);
+  /* padding: var(--padding); */
+  padding: 15px 30px;
+}
+.SearchButton {
+  border: 1px solid #000;
+  border-radius: var(--border-radius);
+  background: var(--white-color);
+  padding: var(--padding);
+  width: 15%;
+}
+
+.buttonGroup {
+  width: calc(40% - 15px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+
+
+.basic-table-container {
+  width: 100%;
+  margin-top: 20px;
+  box-shadow: var(--box-shadow);
+  padding: var(--padding);
+  border-radius: var(--border-radius);
+}
+
+.search-container {
+  margin-bottom: 10px;
+}
+
+.search-input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.basic-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.header-cell {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.header-cell.asc::after {
+  content: " ↑";
+}
+
+.header-cell.desc::after {
+  content: " ↓";
+}
+
+.data-cell {
+  text-align: center;
+}
+
+.pagination-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.pagination-button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  color: #000;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background: none;
+}
+
+.pagination-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.active-pagnation {
+  color: #683de4;
+  border: 1px solid #683de4;
+}
+.pagination-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pagination-controls {
+  display: flex;
+  gap: 5px; 
+}
+
+
+.ellipsis {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid #EEEEF2;
+  border-radius: var(--border-radius);
+  margin: 15px;
+  padding: 5px 0;
+}
+
+.ellipsis .vertical {
+  width: 15px;
+  height: 23px;
+  background-image: radial-gradient(circle, black 2px, transparent 0);
+  background-size: 100% 33.33%;
+}
+.pagination-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+
+.close-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.box-container {
+  box-shadow: var(--box-shadow);
+  border-radius: var(--border-radius);
+  padding: var(--padding);
+}
+
+.react-datepicker-wrapper{
+padding: 0 10px;
+}
+
+.sorted-asc:after {
+  content: '▲\A▼'; 
+  white-space: pre
+}
+
+.sorted-desc:after {
+  content: '▲\A▼'; 
+}
+
+.table-scroll-container {
+  max-height: 100%; 
+  overflow-y: auto; 
+}
+
+.date-picker-container {
+  width: 30%;
+  position: relative;
+  display: inline-block;
+  border: 1px solid var(--border-color);
+  border-radius: var(--padding);
+}
+
+.calendar-icon {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  color: var(--primary-color-darker);
+}
+
+.odd-row{
+  background-color: #FAFAFD;
+}
+.status-box {
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.width-input {
+  width: 30%;
+}
+
+.revoked-text {
+  background-color: #DB3840;
+  color: var(--white-color);
+  border-radius: var(--border-radius);
+}
+
+.expired-text {
+  background-color: #8B8BA2;
+  color: var(--white-color);
+  border-radius: var(--border-radius);
+}
+
+.pending-text {
+  background-color: #F4CE49;
+  color: #000;
+  border-radius: var(--border-radius);
+}
+.active-text {
+  background-color: #84A6FF;
+  color: var(--white-color);
+  border-radius: var(--border-radius);
+}
+
+.completed-text {
+  background-color: #169A3C;
+  color: var(--white-color);
+  border-radius: var(--border-radius);
+}
+
+
+
+.sort-indicator {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+}
+
+
+.sort-indicator.asc {
+  border-bottom: 5px solid black;
+}
+
+
+.sort-indicator.desc {
+  border-top: 5px solid black;
+}
